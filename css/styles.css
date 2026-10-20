@@ -12,7 +12,10 @@ header {
 header h1 { margin: 0; }
 
 /* ===== MENU ===== */
-
+.productos { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; }
+.productos li { background: #fff; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,.1); }
+.productos h3 { margin-top: 0; color: #4e342e; }
+.precio { font-weight: bold; color: #8b5a2b; }
 /* ===== CONTACTO ===== */
 
 /* ===== FOOTER ===== */
