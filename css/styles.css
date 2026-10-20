@@ -22,5 +22,8 @@ nav a:hover { text-decoration: underline; }
 .productos h3 { margin-top: 0; color: #4e342e; }
 .precio { font-weight: bold; color: #8b5a2b; }
 /* ===== CONTACTO ===== */
-
+form { display: grid; gap: .5rem; max-width: 500px; }
+input, textarea { padding: .6rem; border: 1px solid #bbb; border-radius: 4px; font: inherit; }
+button { padding: .7rem; background: #4e342e; color: #fff; border: 0; border-radius: 4px; cursor: pointer; }
+#estado { color: #b00020; min-height: 1.2em; }
 /* ===== FOOTER ===== */
