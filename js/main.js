@@ -1,1 +1,1 @@
-console.log("Cafe Aroma cargado");
+document.getElementById("anio").textContent = new Date().getFullYear();
