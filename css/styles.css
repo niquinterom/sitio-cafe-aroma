@@ -5,8 +5,8 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
 
 /* ===== CABECERA ===== */
 header {
-  background: #6f4e37;
-  color: #cccccc;
+  background: #3e2723;
+  color: #ffffff;
   padding: 1rem;
 }
 header h1 { margin: 0; }
