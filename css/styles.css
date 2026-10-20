@@ -5,11 +5,16 @@ main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
 
 /* ===== CABECERA ===== */
 header {
-  background: #6f4e37;
+  background: #4e342e;
   color: #cccccc;
-  padding: 1rem;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 header h1 { margin: 0; }
+nav a { color: #f5f0e6; text-decoration: none; margin-left: 1.5rem; }
+nav a:hover { text-decoration: underline; }
 
 /* ===== MENU ===== */
 
