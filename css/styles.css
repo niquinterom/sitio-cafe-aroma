@@ -1,0 +1,18 @@
+/* ===== BASE ===== */
+* { box-sizing: border-box; }
+body { font-family: Arial, sans-serif; margin: 0; background: #f5f0e6; color: #333; }
+main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+
+/* ===== CABECERA ===== */
+header {
+  background: #6f4e37;
+  color: #cccccc;
+  padding: 1rem;
+}
+header h1 { margin: 0; }
+
+/* ===== MENU ===== */
+
+/* ===== CONTACTO ===== */
+
+/* ===== FOOTER ===== */
